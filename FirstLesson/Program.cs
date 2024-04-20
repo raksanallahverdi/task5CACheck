@@ -216,22 +216,24 @@
 //Console.WriteLine(factorial);
 
 //task7(sade or murekkeb)
-//int number = Convert.ToInt32(Console.ReadLine());
-//int kok = Convert.ToInt32(Math.Sqrt(number));
+// int number = Convert.ToInt32(Console.ReadLine());
+// int kok = Convert.ToInt32(Math.Sqrt(number));
+// bool def=false;
 
-//for (int i = 2; i <= kok; i++)
-//{
+// for (int i = 2; i <= kok; i++)
+// {
 //    if (number % i == 0)
 //    {
 //        Console.WriteLine("Eded murekkebdir");
+//        def=true;
 //        break;
 //    }
-//    else
+// }
+//  if(def==false)
 //    {
 //        Console.WriteLine("Eded sadedir");
-//        break;
+    
 //    }
-//}
 
 //task8(ededin reqemlerinin cemi)
 //int number = Convert.ToInt32(Console.ReadLine());
